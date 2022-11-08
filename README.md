@@ -1,6 +1,6 @@
-### Hi 👋, I'm Nancy Clavijo
+### 👋 Hola, soy Nancy Clavijo
 
-👋 Hola, soy Nancy Clavijo
+
 👨 💻 Acerca de mí : Soy  desarrolladora  Full Stack de Colombia.
 
 <img align="center"  height="300" width="900" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.jpg" />
