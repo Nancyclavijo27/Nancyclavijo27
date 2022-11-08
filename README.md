@@ -1,23 +1,23 @@
 ### Hi 👋, I'm Nancy Clavijo
 
-👨 💻 About me :
-I am a Full Stack Developer from Colombia.
+👋 Hola, soy Nancy Clavijo
+👨 💻 Acerca de mí : Soy un desarrollador Full Stack de Colombia.
 
 <img align="center"  height="300" width="900" src="https://prod-discovery.edx-cdn.org/media/programs/card_images/2f377daa-30b3-487f-941c-18503633a4a1-12209ba765df.jpg" />
 
-🔭 I like software development and my contributions are to frontend and backend for building web applications.
+🔭 Me gusta el desarrollo de software y mis contribuciones son a frontend y backend para la construcción de aplicaciones web.
 
-🌱 I'm exploring new technical content.
+🌱 Estoy explorando nuevos contenidos técnicos.
 
-⚡ In my spare time, I solve problems at CodeWars and read technology articles.
+⚡ En mi tiempo libre, resuelvo problemas en CodeWars y realizo pequeños proyectos.
 
-📫 How to reach me clavijovarela@gmail.com
+📫 ¿Cómo llegar a mí clavijovarela@gmail.com
 
-📄 Know about my experiences https://gamer-commerce.vercel.app/
+📄 Conoce mis experiencias https://gamer-commerce.vercel.app/
 
-💬 Ask me about https://pi-pokemon-two.vercel.app/
+💬 Pregúntame sobre https://pi-pokemon-two.vercel.app/
 
-
+Contactame 
 <a href="https://www.linkedin.com/in/nancy-clavijo-varela-29353117a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pjendara" height="30" width="40" /></a>
 
 **Languages:**
