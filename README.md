@@ -13,7 +13,7 @@
 
 📫 ¿Cómo llegar a mí clavijovarela@gmail.com
 
-📄 Conoce mis experiencias https://gamer-commerce.vercel.app/
+📄 Conoce mis experiencias https://gamer-commerce.vercel.app/  , https://personal-portafolio-delta.vercel.app/
 
 💬 Pregúntame sobre https://pi-pokemon-two.vercel.app/
 
